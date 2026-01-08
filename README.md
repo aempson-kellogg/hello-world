@@ -16,3 +16,7 @@ To commit:
 3. Push the commit.
 
 pwd == print working directory
+ls . == list files in directory
+ls .. == show files in parent directory
+-- .files are meant for configuration
+ls -la === show everything (including .files)
