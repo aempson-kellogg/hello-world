@@ -20,3 +20,6 @@ ls . == list files in directory
 ls .. == show files in parent directory
 -- .files are meant for configuration
 ls -la === show everything (including .files)
+
+To run ruby file:
+ruby hello.rb
