@@ -14,3 +14,5 @@ To commit:
 1. Stage the change.
 2. Add a message & commit.
 3. Push the commit.
+
+pwd == print working directory
